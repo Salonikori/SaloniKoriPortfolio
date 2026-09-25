@@ -6,7 +6,7 @@ This is a personal portfolio website built using **HTML**, **CSS**, and **JavaSc
 
 ## 🔗 Live Demo
 Check out the live version here:  
-👉 [https://salonikori.github.io/Saloni_Portfolio](https://salonikori.github.io/Saloni_Portfolio)
+👉 [https://salonikori.github.io/SaloniKoriPortfolio/)
 
 ---
 
